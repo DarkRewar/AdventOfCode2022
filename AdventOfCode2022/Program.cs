@@ -9,7 +9,7 @@ namespace AdventOfCode2022
     {
         public static void Main(string[] args)
         {
-            var day = new Day1.Day1();
+            var day = new Day2.Day2();
             day.Execute();
         }
     }
